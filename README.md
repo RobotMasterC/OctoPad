@@ -1,7 +1,8 @@
 ## OctoPad
 
 ![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)
-
+        ↑
+  *Only for PCB*
 An 8 key macro pad with 2 knobs that uses KMK firmware
 
 
