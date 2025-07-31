@@ -37,5 +37,7 @@ encoder_handler.pins = (
     (board.D8, board.D7, None,),
     )
 
+encoder_handler.map = [((KC.UP, KC.DOWN, KC.MUTE),)]
+
 if __name__ == '__main__':
     keyboard.go()
