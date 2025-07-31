@@ -1,4 +1,6 @@
-![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)# OctoPad
+![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)
+
+## OctoPad
 
 
 <img width="120" height="20" alt="OctoPad (1)" src="https://github.com/user-attachments/assets/12f9c6e6-bd63-445b-828b-dce532979076" />
