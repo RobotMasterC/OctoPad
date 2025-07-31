@@ -2,8 +2,7 @@
 
 <img width="120" height="20" alt="image" src="https://github.com/user-attachments/assets/253b0b45-366b-4513-abfc-63d512abfe33" />
 
-An 8 key macro pad with 2 knobs
-
+An 8 key macro pad with 2 knobs that uses KMK firmware
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e22eac1f-6e0b-411a-adfc-633ee79990e8" />
 
