@@ -1,9 +1,6 @@
-![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)
-
 ## OctoPad
 
-
-<img width="120" height="20" alt="OctoPad (1)" src="https://github.com/user-attachments/assets/12f9c6e6-bd63-445b-828b-dce532979076" />
+![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)
 
 An 8 key macro pad with 2 knobs that uses KMK firmware
 
