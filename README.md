@@ -1,9 +1,10 @@
 ![OctoPad](https://github.com/user-attachments/assets/1193707e-901a-4e4b-8017-6df1a8db1db8)# OctoPad
 
 
+<img width="120" height="20" alt="OctoPad (1)" src="https://github.com/user-attachments/assets/12f9c6e6-bd63-445b-828b-dce532979076" />
+
 An 8 key macro pad with 2 knobs that uses KMK firmware
 
-![Upload<svg xmlns="http://www.w3.org/2000/svg" width="120" height="20" role="img" aria-label="hackatime: 1h 22m"><title>hackatime: 1h 22m</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="120" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="67" height="20" fill="#555"/><rect x="67" width="53" height="20" fill="#007ec6"/><rect width="120" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="345" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="570">hackatime</text><text x="345" y="140" transform="scale(.1)" fill="#fff" textLength="570">hackatime</text><text aria-hidden="true" x="925" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="430">1h 22m</text><text x="925" y="140" transform="scale(.1)" fill="#fff" textLength="430">1h 22m</text></g></svg>ing OctoPad.svg…]()
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e22eac1f-6e0b-411a-adfc-633ee79990e8" />
 
