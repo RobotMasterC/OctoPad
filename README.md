@@ -7,6 +7,8 @@ An 8 key macro pad with 2 knobs
 
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/e22eac1f-6e0b-411a-adfc-633ee79990e8" />
 
+*Image drawn by Ever*
+*https://www.youtube.com/@Ever_Draws*
 
 ## BOM
 - 8x DSA keycaps
