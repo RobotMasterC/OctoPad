@@ -17,7 +17,7 @@ An 8 key macro pad with 2 knobs that uses KMK firmware
 ## BOM
 - 8x DSA keycaps
 - 8x Cherry MX Switches
-- 8x SOM123 Diodes
+- 8x SOM123 Diodes (or Any other 1N4148 Diode)
 - 4x M3x16 Bolt
 - 4x M3 Heatset
 - 2x EC11 Rotary Encoder
